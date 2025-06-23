@@ -8,7 +8,7 @@ st.title("HM actions")
 
 
 # Load the dataset
-tp = pd.read_csv("STREAMLITAPPS.talkpush.Folder_Logs.csv")
+df = pd.read_csv("STREAMLITAPPS.talkpush.Folder_Logs.csv")
 
 
 today = datetime.today()
